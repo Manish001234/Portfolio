@@ -183,7 +183,7 @@ export const details = [
     id: 5,
     title: "FlatHeads Clone",
     desc: `A web application to buy footwear.`,
-    feature: `Trending Footwear page,Sign-in/Sign-up User Authentication using Masai API
+    feature: `Trending Footwear page, Sign-in/Sign-up User Authentication using Masai API
     `,
     tech: `Tech Stack: HTML | CSS | JavaScript .`,
     img: "https://cdn-images-1.medium.com/max/1000/1*IcbIczQPJjdfQ8xCUc7ZlQ.png",
