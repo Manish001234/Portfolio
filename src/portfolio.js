@@ -170,7 +170,7 @@ export const details = [
     id: 4,
     title: "Nordstorm Clone",
     desc: `A leading fashion retailer offering clothing, shoes, and
-    accessories for men, women and kids.`,
+    accessories for men, women and kids.The right outfit lets you nail your tree pose without being distracted by constricting clothes.`,
     feature: `Product Page,
     Sorting,
     filtering.`,
@@ -182,7 +182,8 @@ export const details = [
   {
     id: 5,
     title: "FlatHeads Clone",
-    desc: `A web application to buy footwear.`,
+    desc: `A web application to buy footwear.
+    Choosing the right footwear is important. Here’s how you do it!Selecting the right footwear involves a lot more than just finding the right shoe size for you. In fact, there’s a whole world of decisions to factor in when doing so. Choosing the right footwear is way more important than you think. `,
     feature: `Trending Footwear page, Sign-in/Sign-up User Authentication using Masai API
     `,
     tech: `Tech Stack: HTML | CSS | JavaScript .`,
