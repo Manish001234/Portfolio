@@ -80,21 +80,21 @@ export const whatido = {
       iconifyClassName: "logos:mongodb",
       id: "8",
     },
-    {
-      name: "Postman",
-      iconifyClassName: "logos:postman-icon",
-      id: "9",
-    },
-    {
-      name: "npm",
-      iconifyClassName: "logos:npm-icon",
-      id: "10",
-    },
-    {
-      name: "GIT",
-      iconifyClassName: "logos:git",
-      id: "11",
-    },
+    // {
+    //   name: "Postman",
+    //   iconifyClassName: "logos:postman-icon",
+    //   id: "9",
+    // },
+    // {
+    //   name: "npm",
+    //   iconifyClassName: "logos:npm-icon",
+    //   id: "10",
+    // },
+    // {
+    //   name: "GIT",
+    //   iconifyClassName: "logos:git",
+    //   id: "11",
+    // },
     // {
     //   name: "Tailwind",
     //   iconifyClassName: "logos:tailwindcss-icon",
@@ -115,11 +115,11 @@ export const whatido = {
     //   iconifyClassName: "vscode-icons:file-type-netlify",
     //   id: "15",
     // },
-    {
-      name: "Vercel",
-      iconifyClassName: "logos:vercel-icon",
-      id: "16",
-    },
+    // {
+    //   name: "Vercel",
+    //   iconifyClassName: "logos:vercel-icon",
+    //   id: "16",
+    // },
   ],
 };
 
