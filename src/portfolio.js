@@ -16,7 +16,7 @@ export const main = {
   name: "Manish Reddy",
   doamin: "A MERN Stack Web Developer",
   resume:
-    "https://drive.google.com/file/d/19lJZKnBiDy8T-E8WRkus2P_O4biszzY9/view?usp=sharing",
+    "https://drive.google.com/drive/folders/1VlF6bTnN1OU_GpLciyo-A8bji5M6mrbV?usp=sharing",
 };
 
 // AboutMe
@@ -25,7 +25,7 @@ export const aboutme = {
     "https://media-exp1.licdn.com/dms/image/C5603AQGV3NRzMiz19g/profile-displayphoto-shrink_400_400/0/1647456871381?e=1652918400&v=beta&t=MdE__u11OoG56mD8pgnlfNBpagTixkDoxkVLuB5j0jQ",
   p1: "Hey, My name is Manish Reddy. I have completed my  Intermediate  from  spoorthy  junior  College, Medchal.",
   p2: " I'm a passionate coder and an enthusiastic Web Developer capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
-  p3: "Apart from coding I also like playing cricket and listning music.",
+  p3: "Apart from coding I also like playing cricket and listening music.",
 };
 
 // Skills
@@ -34,7 +34,6 @@ export const whatido = {
 
   details: [
     "Building responsive website using HTML,CSS,JS,React",
-    // "Creating backend application in Node, ExpressJS",
     "Building Simple RESTful CRUD APIs",
     "Knowledge of MongoDB Database",
     "Knowledge of various UI libraries",
