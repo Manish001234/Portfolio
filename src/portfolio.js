@@ -124,19 +124,19 @@ export const whatido = {
 
 // Project Details
 export const details = [
-//   {
-//     id: 1,
-//     title: "Frontend Masters Clone",
-//     desc: `Frontend Masters is an E-learning platform where users can advance their skills with in-depth, modern front-end engineering courses.`,
-//     feature: `Sign-in/Sign-up,
-// Explore top courses and teachers,
-// Dynamic progress monitor page,
-// Subscription page.`,
-//     tech: `Tech Stack: EJS | CSS | JavaScript | nodeJS | express | MongoDB`,
-//     img: "https://github.com/Shivam2101s/images/blob/main/frontend.jpg?raw=true",
-//     github: "https://github.com/Shivam2101s/Frontend_Masters",
-//     link: "https://frontend-masters.herokuapp.com/"
-//   },
+  {
+    id: 1,
+    title: "App-Tronix-Store",
+    desc: `APPTRONIX-STORE . Basically this is an ecommerce website where user can buy only Apple products like , "MOBILE" , "LAPTOP" , "IPAD" .`,
+    feature: `Sign-in/Sign-up,
+Explore multiple Products,
+Dynamic progress monitor page,
+Sorting, filtering.`,
+    tech: `Tech Stack: html5 | CSS3 | JavaScript | Bootstap | React.js | Redux`,
+    img: "https://cdn-images-1.medium.com/max/1000/1*1fJKAfEkFshgmhW_AbYFZQ.png",
+    github: "https://github.com/Manish001234/App-Tronix-Store",
+    link: "https://app-tronix-store.vercel.app/"
+  },
 //   {
 //     id: 2,
 //     title: "MyFitnessPal Clone",
