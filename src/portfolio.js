@@ -1,8 +1,8 @@
 //I Would Highly Recommend You To Customize The Theme According To Your Taste.
 export const globalStyles = {
-  "--grad": "linear-gradient(315deg,#48a9fe,#00cdac)", // Use gradients only
+  // "--grad": "linear-gradient(315deg,#48a9fe,#00cdac)", // Use gradients only
   // "--grad": "linear-gradient(315deg, #48a9fe 0%, #734ae8 74%)", // Use gradients only
-  // "--grad": "linear-gradient(315deg, #06bcfb 0%, #4884ee 74%)",
+  "--grad": "linear-gradient(315deg, #06bcfb 0%, #4884ee 74%)",
   "--txtcolor": "#272341",
   "--p_color": "#00cdac",
   "--s_color": "#fff",
@@ -22,10 +22,10 @@ export const main = {
 // AboutMe
 export const aboutme = {
   imgLink:
-    "https://media-exp1.licdn.com/dms/image/C5603AQGV3NRzMiz19g/profile-displayphoto-shrink_400_400/0/1647456871381?e=1652918400&v=beta&t=MdE__u11OoG56mD8pgnlfNBpagTixkDoxkVLuB5j0jQ",
+    "https://avatars.githubusercontent.com/u/89566773?v=4",
   p1: "Hey, My name is Manish Reddy. I have completed my  Intermediate  from  spoorthy  junior  College, Medchal.",
   p2: " I'm a passionate coder and an enthusiastic Web Developer capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
-  p3: "Apart from coding I also like playing cricket and listening music.",
+  p3: "Apart from coding I also like playing cricket and Travelling.",
 };
 
 // Skills
@@ -132,10 +132,10 @@ export const details = [
 Explore multiple Products,
 Dynamic progress monitor page,
 Sorting, filtering.`,
-    tech: `Tech Stack: html5 | CSS3 | JavaScript | Bootstap | React.js | Redux`,
-    img: "https://cdn-images-1.medium.com/max/1000/1*1fJKAfEkFshgmhW_AbYFZQ.png",
-    github: "https://github.com/Manish001234/App-Tronix-Store",
-    link: "https://app-tronix-store.vercel.app/"
+    tech: `Tech Stack: html5 | CSS3 | JavaScript | React.js | Redux | Mongodb | nodejs | express.`,
+    img: "https://cdn-images-1.medium.com/max/1000/1*VhlaOeu7jp8kfa4THTe4fA.png",
+    github: "https://github.com/Manish001234/App-Tronix-Fullstack",
+    link: "https://app-manishreddy.vercel.app/"
   },
 //   {
 //     id: 2,
@@ -173,7 +173,7 @@ Sorting, filtering.`,
     feature: `Product Page,
     Sorting,
     filtering.`,
-    tech: `Tech Stack: HTML | CSS | JavaScript.`,
+    tech: `Tech Stack: HTML5 | CSS3 | JavaScript.`,
     img: "https://raw.githubusercontent.com/vibrantachintya/nordstrom/main/images/nordstrom_screenshot_1.png",
     github: "https://github.com/vibrantachintya/nordstrom",
     link:"https://vibrantachintya.github.io/nordstrom/"
@@ -185,7 +185,7 @@ Sorting, filtering.`,
     Choosing the right footwear is important. Here’s how you do it!Selecting the right footwear involves a lot more than just finding the right shoe size for you. In fact, there’s a whole world of decisions to factor in when doing so. Choosing the right footwear is way more important than you think. `,
     feature: `Trending Footwear page, Sign-in/Sign-up User Authentication using Masai API
     `,
-    tech: `Tech Stack: HTML | CSS | JavaScript .`,
+    tech: `Tech Stack: HTML5 | CSS3 | JavaScript .`,
     img: "https://cdn-images-1.medium.com/max/1000/1*IcbIczQPJjdfQ8xCUc7ZlQ.png",
     link: "https://flatheads-clone-cwyyrnt4r-duwesh.vercel.app//",
     github: "https://github.com/Duwesh/Flatheads-Clone",
