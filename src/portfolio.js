@@ -135,7 +135,7 @@ Sorting, filtering.`,
     tech: `Tech Stack: html5 | CSS3 | JavaScript | React.js | Redux | Mongodb | nodejs | express.`,
     img: "https://cdn-images-1.medium.com/max/1000/1*VhlaOeu7jp8kfa4THTe4fA.png",
     github: "https://github.com/Manish001234/App-Tronix-Fullstack",
-    link: "https://app-tronix-fullstack8-7e7e5v52l-manishreddy.vercel.app/"
+    link: "https://app-tronix-fullstack7-b77p98rpx-manishreddy.vercel.app/"
   },
 //   {
 //     id: 2,
