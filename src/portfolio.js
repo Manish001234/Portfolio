@@ -23,7 +23,7 @@ export const main = {
 export const aboutme = {
   imgLink:
     "https://avatars.githubusercontent.com/u/89566773?v=4",
-  p1: "Hey, My name is Manish Reddy. I have completed my  Intermediate  from  spoorthy  junior  College, Medchal.",
+  p1: "Hey, My name is Manish Reddy. I have completed my  Graduation  from  Loyola academy degree college, Medchal.",
   p2: " I'm a passionate coder and an enthusiastic Web Developer capable of applying programming skills to solve complex problems. Seeking a challenging role in the field of software development that will offer an opportunity for further development of my abilities, skills and knowledge in an organization.",
   p3: "Apart from coding I also like playing cricket and Travelling.",
 };
