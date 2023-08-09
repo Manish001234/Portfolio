@@ -206,8 +206,8 @@ Sorting, filtering.`,
 // Social Media Links
 export const links = [
   "https://www.linkedin.com/in/manish-reddy-76063a222/",
-  "https://api.whatsapp.com/send/?phone=919542378391&text&app_absent=0",
-  "mailto:manishredd809@gmail.com",
+  "https://api.whatsapp.com/send/?phone=919642698321&text&app_absent=0",
+  "mailto:reddymanish809@gmail.com",
   "https://medium.com/@reddymanish809",
   "https://github.com/Manish001234",
 ];
